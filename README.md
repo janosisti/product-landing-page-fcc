@@ -15,9 +15,9 @@ User Stories:
 7. Your landing page has a form element with a corresponding id="form"  
 8. Within the form, there is an input field with id="email" where you can enter an email address  
 9. The #email input field should have placeholder text to let users know what the field is for  
-10 .The #email input field uses HTML5 validation to confirm that the entered text is an email address  
-11 .Within the form, there is a submit input with a corresponding id="submit"  
-12 .When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)  
-13 .The navbar should always be at the top of the viewport  
-14 .Your product landing page should have at least one media query  
-15 .Your product landing page should utilize CSS flexbox at least once   
+10. The #email input field uses HTML5 validation to confirm that the entered text is an email address  
+11. Within the form, there is a submit input with a corresponding id="submit"  
+12. When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)  
+13. The navbar should always be at the top of the viewport  
+14. Your product landing page should have at least one media query  
+15. Your product landing page should utilize CSS flexbox at least once   
