@@ -4,7 +4,7 @@
 
 Objective: Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks. Do not copy this demo project.
 
-User Stories:
+### User Stories:
 
 1. Your product landing page should have a header element with a corresponding id="header"  
 2. You can see an image within the header element with a corresponding id="header-img" (A logo would make a good image here)  
